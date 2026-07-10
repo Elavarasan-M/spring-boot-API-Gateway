@@ -1,13 +1,5 @@
 # 🚀 Spring Boot Microservices Project
 
-![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge\&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=for-the-badge\&logo=springboot)
-![Spring Cloud Gateway](https://img.shields.io/badge/Spring%20Cloud-Gateway-blue?style=for-the-badge)
-![WebClient](https://img.shields.io/badge/WebClient-Reactive-success?style=for-the-badge)
-![H2 Database](https://img.shields.io/badge/Database-H2-blue?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-Build-red?style=for-the-badge\&logo=apachemaven)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-
 A simple **Spring Boot Microservices** project demonstrating **Product**, **Order**, and **Payment** services communicating with each other using **Spring WebClient**, with **Spring Cloud Gateway** acting as the single entry point.
 
 ---
